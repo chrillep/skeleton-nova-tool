@@ -2,10 +2,10 @@
 
 namespace namespace_vendor\namespace_tool_name;
 
-use Laravel\Nova\Nova;
-use Laravel\Nova\Events\ServingNova;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
+use Laravel\Nova\Events\ServingNova;
+use Laravel\Nova\Nova;
 use namespace_vendor\namespace_tool_name\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
