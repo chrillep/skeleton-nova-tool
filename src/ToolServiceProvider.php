@@ -1,12 +1,12 @@
 <?php
 
-namespace amespace_vendor\namespace_tool_name;
+namespace namespace_vendor\namespace_tool_name;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use amespace_vendor\namespace_tool_name\Http\Middleware\Authorize;
+use namespace_vendor\namespace_tool_name\Http\Middleware\Authorize;
 
 class ToolServiceProvider extends ServiceProvider
 {

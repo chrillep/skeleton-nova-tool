@@ -80,7 +80,7 @@ public function tools()
 {
     return [
         // ...
-        new \namespace_vendor\namespace_tool_name\Tool(),
+        new \nnamespace_vendor\namespace_tool_name\Tool(),
     ];
 }
 ```

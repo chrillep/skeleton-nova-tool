@@ -1,6 +1,6 @@
 <?php
 
-namespace amespace_vendor\namespace_tool_name;
+namespace namespace_vendor\namespace_tool_name;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool as BaseTool;
