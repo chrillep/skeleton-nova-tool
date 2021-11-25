@@ -2,9 +2,9 @@
 
 namespace amespace_vendor\namespace_tool_name\Http\Middleware;
 
+use amespace_vendor\namespace_tool_name\Tool;
 use Closure;
 use Illuminate\Http\Request;
-use amespace_vendor\namespace_tool_name\Tool;
 use Symfony\Component\HttpFoundation\Response;
 
 class Authorize
