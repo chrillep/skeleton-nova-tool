@@ -17,7 +17,7 @@
         "cross-env": "^5.0.0",
         "eslint": "^8.3.0",
         "eslint-config-prettier": "^8.3.0",
-        "eslint-plugin-vue": "^8.1.1",
+        "eslint-plugin-vue": "^9.4.0",
         "husky": ">=6",
         "laravel-mix": "^1.0",
         "lint-staged": ">=10",
